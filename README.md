@@ -6,4 +6,4 @@ I have one year of experience working as a user support specialist. I'm a studen
 
 - How to contact me: [LinkedIn](https://www.linkedin.com/in/raul-krivan-257025244/) | [Email](mailto:krivanrauladrian@gmail.com)  📫
 
-Learning more about code and contributing to great solutions is something I enjoy and want to work with. 🤓 🐘
+Aspiring junior PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
