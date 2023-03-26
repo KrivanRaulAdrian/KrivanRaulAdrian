@@ -1,5 +1,7 @@
 ### Raul - Junior PHP Developer 🐘
 
+https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=ffd
+
 I have one year of experience working as a user support specialist. I'm a student at Jagaad Academy and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming. Check out some of my projects here on GitHub; they cover different topics I'm studying 📚.
 
 - Currently, I'm looking for an opportunity to work as a junior or intern developer. 💻 🐘
