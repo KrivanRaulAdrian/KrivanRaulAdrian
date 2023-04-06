@@ -10,4 +10,10 @@ I have one year of experience working as a user support specialist. I'm a studen
 
 Aspiring junior PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
+Check out some of my projects here on GitHub:
+
+- <a href="https://github.com/KrivanRaulAdrian/api-blog-posts">Blog Posts API</a>
+- <a href="https://github.com/KrivanRaulAdrian/job-board-api">Job Board API</a>
+- <a href="https://github.com/KrivanRaulAdrian/web-shopping">Web Shop</a>
+
 <a href="https://app.daily.dev/KrivanRaul"><img src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
