@@ -12,7 +12,7 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
 
 Check out some of my projects here on GitHub:
 
-- <a href="https://github.com/KrivanRaulAdrian/api-blog-posts">Blog Posts API</a>
+- <a href="https://github.com/KrivanRaulAdrian/api-blog-posts">Blog Post API</a>
 - <a href="https://github.com/KrivanRaulAdrian/job-board-api">Job Board API</a>
 - <a href="https://github.com/KrivanRaulAdrian/web-shopping">Web Shop</a>
 
