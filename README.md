@@ -17,7 +17,7 @@ Check out some of my projects here on GitHub; they cover different topics I'm st
 - <a href="https://github.com/KrivanRaulAdrian/job-board-api">Job Board API</a>
 - <a href="https://github.com/KrivanRaulAdrian/web-shopping">Web Shop</a>
 
-### My GitHub stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
+### My GitHub Stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrivanRaulAdrian&show_icons=true&theme=dracula)
 
 ### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
