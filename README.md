@@ -3,7 +3,7 @@
 
 I have one year of experience working as a user support specialist. I'm a student at Jagaad Academy and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
 
-- Currently, I'm looking for an opportunity to work as a junior or intern developer. 💻 🐘
+- Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
 
 - How to contact me: [LinkedIn](https://www.linkedin.com/in/raul-krivan-257025244/) | [Email](mailto:krivanrauladrian@gmail.com)  📫
 
