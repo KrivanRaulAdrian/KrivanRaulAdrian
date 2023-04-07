@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Raul - Junior PHP Developer 🐘)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Raul+-+Junior+PHP+Developer+🐘)](https://git.io/typing-svg)
 
 
 I have one year of experience working as a user support specialist. I'm a student at Jagaad Academy and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
