@@ -19,4 +19,4 @@ Check out some of my projects here on GitHub; they cover different topics I'm st
 
 <a href="https://app.daily.dev/KrivanRaul"><img src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrivanRaulAdrian)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrivanRaulAdrian&show_icons=true&theme=dracula)
