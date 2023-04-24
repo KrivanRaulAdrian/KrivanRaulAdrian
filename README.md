@@ -69,7 +69,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 - [Certificate Of Completion PHP Backend Developer 2022-2023](https://drive.google.com/file/d/1_JUm9DVLJXEvc7H-rJotB3uiEmbdax8D/view)
 
-## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
+## <img src="https://img.icons8.com/nolan/26/github.png"/> GitHub Stats
 
 <div align="center">
 <p align="center">
