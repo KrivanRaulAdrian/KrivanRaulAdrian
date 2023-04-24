@@ -50,6 +50,10 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-krivan-257025244/) [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076644836934) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/raul_php/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krivanrauladrian@gmail.com)
 
+## **My Certifications 🏅**
+
+- [Certificate Of Completion PHP Backend Developer 2022-2023](https://drive.google.com/file/d/1_JUm9DVLJXEvc7H-rJotB3uiEmbdax8D/view)
+
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
 <div align="center">
