@@ -3,6 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+back-end+developer+from+Romania.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
 
+<a href="https://app.daily.dev/KrivanRaul"><img align="right" src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
+
 Aspiring junior PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
@@ -12,8 +14,6 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
 - Ask me about **Anything**, I am happy to help :smile: 💬
 - I try to: **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people :raised_hands: ⚡ 
-
-<a href="https://app.daily.dev/KrivanRaul"><img aling="right" src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
