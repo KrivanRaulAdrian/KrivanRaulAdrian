@@ -1,4 +1,4 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sherpadesk.com%2Fhubfs%2FBlog%2520Images%2FDeveloper%25E2%2580%2599s%2520Corner%2520SherpaDesk%2520API%2520Updates%2FFeatured_BLOG_API.gif&f=1&nofb=1&ipt=d5ccde3d8e4359ec5210aa097faa67a7af021176b8118702eb69bf4d0fe72a65&ipo=images)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmimeti.co%2Fwp-content%2Fuploads%2F2015%2F01%2Fgif-technologies-API.gif&f=1&nofb=1&ipt=f9dc8109cff0dd01f7ea4438e17bc71fafe59bc4a17a02db0a82b39da0467701&ipo=images)
 
 <h1 align="center">Greetings 🙋‍♂️, I'm Raul Krivan</h1>
 <h3 align="center">
