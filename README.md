@@ -54,6 +54,10 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 - [Certificate Of Completion PHP Backend Developer 2022-2023](https://drive.google.com/file/d/1_JUm9DVLJXEvc7H-rJotB3uiEmbdax8D/view)
 
+<p align="left">
+  <img src="[https://images.credly.com/size/340x340/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png](https://drive.google.com/drive/my-drive)" width="125" height="125">
+</p>
+
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
 <div align="center">
