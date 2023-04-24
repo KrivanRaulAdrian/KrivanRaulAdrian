@@ -29,14 +29,12 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
   </kbd>
-  
    <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </kbd>
-  
    <kbd>
     <kbd>Frameworks/Libraries</kbd>
     <br>
@@ -44,14 +42,12 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
   </kbd>
-  
   <kbd>
     <kbd>Databases</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </kbd>
-  
   <kbd>
     <kbd>Software/CVS/Build Automation</kbd>
     <br>
@@ -60,7 +56,6 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
   </kbd>
-  
    <kbd>
     <kbd>Tools</kbd>
     <br>
