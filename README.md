@@ -38,7 +38,9 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
   </kbd>
    <kbd>Tools</kbd>
     <br>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
   </kbd>
   
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
