@@ -1,3 +1,9 @@
+<h1 align="center">Greetings 🙋‍♂️, I'm Raul Krivan</h1>
+
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=Raul+-+Junior+PHP+Developer+🐘%E2%AD%90." alt="Typing SVG" /></a>
+</h3>
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Raul+-+Junior+PHP+Developer+🐘)](https://git.io/typing-svg)
 
 
