@@ -35,7 +35,7 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slim/slim-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slim/slim-plain.svg" />
   </kbd>
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
