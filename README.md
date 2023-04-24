@@ -1,4 +1,4 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmimeti.co%2Fwp-content%2Fuploads%2F2015%2F01%2Fgif-technologies-API.gif&f=1&nofb=1&ipt=f9dc8109cff0dd01f7ea4438e17bc71fafe59bc4a17a02db0a82b39da0467701&ipo=images)
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Greetings 🙋‍♂️, I'm Raul Krivan</h1>
 <h3 align="center">
