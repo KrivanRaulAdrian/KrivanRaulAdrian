@@ -42,7 +42,7 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
   
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-krivan-257025244/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krivanrauladrian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-krivan-257025244/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krivanrauladrian@gmail.com)[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076644836934)
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
