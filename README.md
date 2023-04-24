@@ -8,10 +8,10 @@
 Aspiring junior PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
-- Current location: Cluj, Romania 📌
+- I'm from Cluj, Romania 📌
 - I’m continuously learning **PHP** 🐘
 - Ask me about **Anything**, I am happy to help 💬
-- I try to: **Go beyond and push the bounds** 🧗
+- I try to **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people ⚡ 
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
