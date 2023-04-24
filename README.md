@@ -30,7 +30,7 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </kbd>
    <kbd>
-    <kbd>Library/FrameWorks</kbd>
+    <kbd>FrameWorks</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
