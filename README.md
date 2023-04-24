@@ -19,6 +19,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 ### My GitHub Stats <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrivanRaulAdrian&show_icons=true&theme=dracula)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KrivanRaulAdrian&layout=compact&langs_count=8&theme=dracula"/>
 
 ### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
 <a href="https://app.daily.dev/KrivanRaul"><img src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
