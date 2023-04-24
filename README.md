@@ -5,8 +5,6 @@
 
 <a href="https://app.daily.dev/KrivanRaul"><img aling="right" src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
 
-I have one year of experience working as a user support specialist. I'm a student at Jagaad Academy and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
-
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
 - How to contact me: [LinkedIn](https://www.linkedin.com/in/raul-krivan-257025244/) | [Email](mailto:krivanrauladrian@gmail.com)  📫
 - Current location: Cluj, Romania 📌
@@ -14,8 +12,6 @@ I have one year of experience working as a user support specialist. I'm a studen
 - Ask me about **Anything**, I am happy to help :smile: 💬
 - I try to: **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people :raised_hands: ⚡ 
-
-Aspiring junior PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
