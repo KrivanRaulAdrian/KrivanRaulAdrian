@@ -10,7 +10,7 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
 - How to contact me: [LinkedIn](https://www.linkedin.com/in/raul-krivan-257025244/) | [Email](mailto:krivanrauladrian@gmail.com)  📫
 - Current location: Cluj, Romania 📌
-- I’m currently learning **PHP** 🌱
+- I’m continuously learning **PHP** 🌱
 - Ask me about **Anything**, I am happy to help :smile: 💬
 - I try to: **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people :raised_hands: ⚡ 
