@@ -1,3 +1,5 @@
+<img style="width: 618.75px; height: 260.391px; display: block;" alt="Developer's Corner: SherpaDesk's API" class="detail__media__img-highres  js-detail-img  js-detail-img-high" src="//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sherpadesk.com%2Fhubfs%2FBlog%2520Images%2FDeveloper%25E2%2580%2599s%2520Corner%2520SherpaDesk%2520API%2520Updates%2FFeatured_BLOG_API.gif&amp;f=1&amp;nofb=1&amp;ipt=d5ccde3d8e4359ec5210aa097faa67a7af021176b8118702eb69bf4d0fe72a65&amp;ipo=images">
+
 <h1 align="center">Greetings 🙋‍♂️, I'm Raul Krivan</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+diligent+back-end+developer+from+Romania.;Working+tirelessly+to+create+something+magnificent%E2%AD%90." alt="Typing SVG" /></a>
