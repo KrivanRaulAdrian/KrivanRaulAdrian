@@ -23,12 +23,14 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
   </kbd>
+  
    <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </kbd>
+  
    <kbd>
     <kbd>FrameWorks</kbd>
     <br>
