@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=Raul+-+Junior+PHP+Developer+🐘" alt="Typing SVG" /></a>
 </h3>
 
+<a href="https://app.daily.dev/KrivanRaul"><img aling="right" src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
+
 I have one year of experience working as a user support specialist. I'm a student at Jagaad Academy and have been focusing on Backend development with PHP, Symfony, MySQL, and Object-Oriented Programming.
 
 - Currently, I'm looking for an opportunity to work as a junior developer. 💻 🐘
@@ -67,4 +69,4 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KrivanRaulAdrian&theme=dracula&hide_border=true" /></a>
 
 ### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-<a href="https://app.daily.dev/KrivanRaul"><img src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
+
