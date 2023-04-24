@@ -1,5 +1,4 @@
 <h1 align="center">Greetings 🙋‍♂️, I'm Raul Krivan</h1>
-
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=Raul+-+Junior+PHP+Developer+🐘" alt="Typing SVG" /></a>
 </h3>
@@ -67,6 +66,3 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KrivanRaulAdrian&theme=dracula&hide_border=true" /></a>
-
-### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-
