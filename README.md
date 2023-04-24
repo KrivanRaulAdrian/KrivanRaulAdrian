@@ -38,7 +38,6 @@ Aspiring junior PHP developer, willing to continuously grow and learn,eager to w
   </kbd>
    <kbd>Tools</kbd>
     <br>
-    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </kbd>
   
