@@ -28,5 +28,8 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 </p>
 </div>
 
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KrivanRaulAdrian&theme=dracula&hide_border=true" /></a>
+
 ### My DevCard <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
 <a href="https://app.daily.dev/KrivanRaul"><img src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
