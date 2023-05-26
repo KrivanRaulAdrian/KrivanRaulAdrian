@@ -106,6 +106,3 @@ Check out some of my projects here on GitHub; they cover different topics I stud
  </a>
 </p>
 </div>
-
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KrivanRaulAdrian&theme=dracula&hide_border=true" /></a>
