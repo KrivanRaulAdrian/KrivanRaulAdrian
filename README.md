@@ -19,6 +19,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 - <a href="https://github.com/KrivanRaulAdrian/api-blog-posts">Blog Post API</a>
 - <a href="https://github.com/KrivanRaulAdrian/job-board-api">Job Board API</a>
 - <a href="https://github.com/KrivanRaulAdrian/web-shopping">Web Shop</a>
+- <a href="https://github.com/KrivanRaulAdrian/laragigs">LaraGigs</a>
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
