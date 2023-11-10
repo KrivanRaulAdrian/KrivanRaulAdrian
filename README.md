@@ -5,7 +5,7 @@
 
 <a href="https://app.daily.dev/KrivanRaul"><img align="right" src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
 
-Junior PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
+PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 - Currently, I'm working as a junior PHP / Laravel developer. 💻 🐘
 - I'm from Cluj, Romania 📌
