@@ -30,6 +30,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
   </kbd>
   
    <kbd>
@@ -37,6 +38,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />  
   </kbd>
   
    <kbd>
@@ -45,8 +47,10 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" />
   </kbd>
   
   <kbd>
@@ -54,6 +58,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   </kbd>
   
   <kbd>
@@ -63,6 +68,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
   </kbd>
   
    <kbd>
