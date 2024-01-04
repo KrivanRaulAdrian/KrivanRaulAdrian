@@ -9,7 +9,7 @@ PHP developer, willing to continuously grow and learn,eager to write and maintai
 
 - Currently, I'm working as a junior PHP / Laravel developer. 💻 🐘
 - I'm from Cluj, Romania 📌
-- I’m continuously learning **PHP and Laravel** 🐘
+- I’m continuously learning **PHP and Node** 🐘
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people ⚡ 
