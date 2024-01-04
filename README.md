@@ -26,7 +26,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
 <kbd>
-   <kbd>Front-end</kbd>
+   <kbd>Frontend</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -35,7 +35,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   </kbd>
   
    <kbd>
-    <kbd>Back-end</kbd>
+    <kbd>Backend</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -43,7 +43,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   </kbd>
   
    <kbd>
-    <kbd>Front-end Frameworks</kbd>
+    <kbd>Frontend Frameworks</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -52,7 +52,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   </kbd>
 
   <kbd>
-     <kbd>Back-end Frameworks</kbd>
+     <kbd>Backend Frameworks</kbd>
      <br>
      <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
