@@ -43,12 +43,18 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   </kbd>
   
    <kbd>
-    <kbd>Frameworks/Libraries</kbd>
+    <kbd>Front-end Frameworks</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
+  </kbd>
+
+  <kbd>
+     <kbd>Back-end Frameworks</kbd>
+     <br>
+     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" />
