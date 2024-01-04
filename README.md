@@ -110,7 +110,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 ## **My Certifications 🏅**
 
 - [Certificate Of Completion PHP Backend Developer 2022-2023](https://drive.google.com/file/d/1_JUm9DVLJXEvc7H-rJotB3uiEmbdax8D/view)
-- [Mastering Laravel 10 Query Builder, Eloquent & Relationships 2023](https://drive.google.com/drive/u/0/home)
+- [Mastering Laravel 10 Query Builder, Eloquent & Relationships 2023](https://drive.google.com/file/d/1ySw19ztbAv2_EVuKuOeMDL4H2IUmitHu/view?usp=drive_link)
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> GitHub Stats
 
