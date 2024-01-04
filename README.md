@@ -111,7 +111,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 
 - [Certificate Of Completion PHP Backend Developer 2022-2023](https://drive.google.com/file/d/1_JUm9DVLJXEvc7H-rJotB3uiEmbdax8D/view)
 - [Mastering Laravel 10 Query Builder, Eloquent & Relationships 2023](https://drive.google.com/file/d/1ySw19ztbAv2_EVuKuOeMDL4H2IUmitHu/view?usp=drive_link)
-- [Complete NodeJS Developer in 2023(GraphQL, MongoDB, more)](https://drive.google.com/file/d/1RByj0wY3NhHVwsDaLk3BOqq-AfwFXqbx/view?usp=drive_link)
+- [Complete NodeJS Developer in 2023(GraphQL, MongoDB, + more)](https://drive.google.com/file/d/1RByj0wY3NhHVwsDaLk3BOqq-AfwFXqbx/view?usp=drive_link)
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> GitHub Stats
 
