@@ -7,7 +7,7 @@
 
 Backend developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
-- Currently, I'm working as a junior PHP / Laravel developer. 💻 🐘
+- Currently, I'm working as a junior Backend developer. 💻 🐘
 - I'm from Cluj, Romania 📌
 - I’m continuously learning **PHP, Node, and C++** 🐘🟢📘
 - Ask me about **Anything**, I am happy to help 💬
