@@ -5,11 +5,11 @@
 
 <a href="https://app.daily.dev/KrivanRaul"><img align="right" src="https://api.daily.dev/devcards/222ea73a547541168812f68a28aeb9c8.png?r=3le" width="400" alt="Krivan Raul's Dev Card"/></a>
 
-PHP developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
+Backend developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
 - Currently, I'm working as a junior PHP / Laravel developer. 💻 🐘
 - I'm from Cluj, Romania 📌
-- I’m continuously learning **PHP and Node** 🐘🟢
+- I’m continuously learning **PHP, Node, and C++** 🐘🟢📘
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people ⚡ 
@@ -39,7 +39,8 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />  
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
   </kbd>
   
    <kbd>
