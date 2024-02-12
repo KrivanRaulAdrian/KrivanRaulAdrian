@@ -32,6 +32,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
   </kbd>
   
    <kbd>
