@@ -86,6 +86,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" />
   </kbd>
   
   <kbd>
