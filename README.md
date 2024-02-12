@@ -80,6 +80,8 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" />
   </kbd>
   
    <kbd>
