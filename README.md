@@ -57,7 +57,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
      <br>
      <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" />
   </kbd>
   
