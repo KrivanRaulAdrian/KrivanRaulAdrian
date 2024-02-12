@@ -67,6 +67,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   </kbd>
   
