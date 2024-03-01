@@ -75,7 +75,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   </kbd>
   
   <kbd>
-    <kbd>Software/CVS/Build Automation</kbd>
+    <kbd>Software/CVS/Compilers/Build Automation</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
