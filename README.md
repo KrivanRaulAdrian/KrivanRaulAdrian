@@ -43,6 +43,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
   </kbd>
   
    <kbd>
