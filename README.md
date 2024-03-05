@@ -7,7 +7,7 @@
 
 Software developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
-- Currently, I'm working as a junior software developer. 💻 🐘
+- Currently, I'm working as a junior software developer. 💻
 - I'm from Cluj, Romania 📌
 - I’m continuously learning **PHP, Node, C/C++, and Python** 🐘🟢📘🐍
 - Ask me about **Anything**, I am happy to help 💬
