@@ -9,7 +9,7 @@ Software developer, willing to continuously grow and learn,eager to write and ma
 
 - Currently, I'm working as a junior software developer. 💻
 - I'm from Cluj, Romania 📌
-- I’m continuously learning **PHP, Node, C/C++, and Python** 🐘🟢📘🐍
+- I’m continuously learning **PHP, Node, and Python** 🐘🟢🐍
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people ⚡ 
@@ -41,8 +41,6 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
   </kbd>
   
@@ -76,7 +74,7 @@ Check out some of my projects here on GitHub; they cover different topics I stud
   </kbd>
   
   <kbd>
-    <kbd>Software/CVS/Compilers/Build Automation</kbd>
+    <kbd>Software/CVS/Build Automation</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -85,9 +83,6 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" />
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/llvm/llvm-original.svg" />
-    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" />
   </kbd>
   
    <kbd>
