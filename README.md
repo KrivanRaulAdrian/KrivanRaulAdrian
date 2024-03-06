@@ -85,6 +85,8 @@ Check out some of my projects here on GitHub; they cover different topics I stud
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
     <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" />
+    <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/llvm/llvm-original.svg" />
   </kbd>
   
    <kbd>
