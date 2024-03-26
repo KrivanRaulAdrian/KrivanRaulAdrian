@@ -10,6 +10,7 @@ Software developer, willing to continuously grow and learn,eager to write and ma
 - Currently, I'm working as a junior software developer. 💻
 - I'm from Cluj, Romania 📌
 - I’m continuously learning **PHP, C, and C++** 🐘🤖
+- I'm passionate about **Linux** 🐧
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people ⚡ 
