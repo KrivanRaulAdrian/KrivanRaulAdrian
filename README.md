@@ -7,10 +7,10 @@
 
 Software developer, willing to continuously grow and learn,eager to write and maintain good-quality code while working in a friendly based environment with a dedicated team. 🤓 🐘
 
-- Currently, I'm working as a junior software developer. 💻
+- Currently, I'm working as a IT Support Specialist with Linux, Bash Scripting, and Virtual Machines. 🐧💻
 - I'm from Cluj, Romania 📌
 - I’m continuously learning **PHP, C/C++** 🐘🤖
-- I'm passionate about **Linux** 🐧
+- I'm passionate about **Linux and Bash Scripting** 🐧
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
 - I **Love** connecting with different people ⚡ 
