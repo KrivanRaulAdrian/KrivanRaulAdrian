@@ -9,7 +9,7 @@ Software developer, willing to continuously grow and learn,eager to write and ma
 
 - Currently, I'm working as a IT Support Specialist with Linux, Bash Scripting, and Virtual Machines. 🐧💻
 - I'm from Cluj, Romania 📌
-- I’m continuously learning **C/C++** 🤖
+- I’m continuously learning **PHP and Laravel++** 🤖
 - I'm passionate about **Linux** 🐧
 - Ask me about **Anything**, I am happy to help 💬
 - I try to **Go beyond and push the bounds** 🧗
